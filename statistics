@@ -1,0 +1,9 @@
+1) Read fully
+2) Corder cases?
+3) Write array of test data 
+ - sanity 
+ - corner cases
+4) Try solution 1 from top of head, calc O(n)
+5) Try better solution, calc O(n)
+6) Write API
+7) Code
